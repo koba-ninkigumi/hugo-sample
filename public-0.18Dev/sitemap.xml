@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.org/a/a/</loc>
+    <lastmod>2016-12-15T13:40:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/b/b/</loc>
+    <lastmod>2016-12-15T13:40:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/a/</loc>
+    <lastmod>2016-12-15T13:40:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/b/</loc>
+    <lastmod>2016-12-15T13:40:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/index/</loc>
+    <lastmod>2016-12-15T13:40:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/a/</loc>
+    <lastmod>2016-12-15T13:40:11+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/b/</loc>
+    <lastmod>2016-12-15T13:40:11+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/index/</loc>
+    <lastmod>2016-12-15T13:40:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2016-12-15T13:40:11+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

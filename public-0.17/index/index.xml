@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index-rsses on My New Hugo Site</title>
+    <link>http://example.org/index/index.xml</link>
+    <description>Recent content in Index-rsses on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2016 13:40:01 +0900</lastBuildDate>
+    <atom:link href="http://example.org/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://example.org/index/</link>
+      <pubDate>Thu, 15 Dec 2016 13:40:01 +0900</pubDate>
+      
+      <guid>http://example.org/index/</guid>
+      <description>&lt;p&gt;index&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
