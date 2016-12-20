@@ -1,0 +1,14 @@
+box:
+  id: ninkigumi/hugo-min-0.18
+  cmd: /bin/bash
+build:
+  steps:
+    - script:
+        name: hugo
+        code: |
+            hugo
+deploy:
+  steps:
+    - lukevivier/gh-pages:
+        token: $GIT_TOKEN
+        basedir: public
